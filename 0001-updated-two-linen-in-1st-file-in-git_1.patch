@@ -1,0 +1,24 @@
+From 70c568245cdfad3e0d7b72021f5de977b0a3d0d7 Mon Sep 17 00:00:00 2001
+From: ElyorAzimovJava <ayubjonyahiyoyev@gmail.com>
+Date: Wed, 29 Oct 2025 11:36:43 +0500
+Subject: [PATCH] updated two linen in 1st file in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..779c356 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 updated in git_1
++2 updated in git_1
+ 3
+ 4
+ 5
+-- 
+2.50.1.windows.1
+
