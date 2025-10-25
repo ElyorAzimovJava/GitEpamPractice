@@ -1,5 +1,5 @@
-A1
-A2
+A1 line is updated
+A2 line is updated
 A3
 A4
 A5
