@@ -1,5 +1,5 @@
-A1
-A2
+A1 is updated in git_1
+A2 is updated in git_2
 A3
 A4
 A5
