@@ -1,7 +1,7 @@
 Line1 is updated
 Line2 is updated
-Line3
-Line4
+Line3 is updated
+Line4 is updated
 Line5
 Line6
 Line7
