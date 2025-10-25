@@ -3,7 +3,7 @@ Line2 is updated
 Line3 is updated
 Line4 is updated
 Line5 is updated in folder 2 git_1
-Line6
+Line6 is updated in folder 1 git_1
 Line7
 Line8
 Line9
