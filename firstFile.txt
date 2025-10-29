@@ -3,8 +3,8 @@
 3 modified 2 in git_1
 4 modified 2 in git_1
 5
-6
-7
+6 updated in cloned
+7 updated in cloned
 8
 9
 10
