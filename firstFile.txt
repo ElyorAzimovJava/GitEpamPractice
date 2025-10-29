@@ -5,6 +5,6 @@
 5
 6 updated in cloned
 7 updated in cloned
-8
-9
+8 changed in original repo
+9 changed in original repo
 10
